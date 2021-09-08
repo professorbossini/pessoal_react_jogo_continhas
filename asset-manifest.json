@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/pessoal_react_jogo_continhas/static/js/main.d5d536fc.chunk.js",
+    "main.js.map": "/pessoal_react_jogo_continhas/static/js/main.d5d536fc.chunk.js.map",
+    "runtime-main.js": "/pessoal_react_jogo_continhas/static/js/runtime-main.2c49eeb5.js",
+    "runtime-main.js.map": "/pessoal_react_jogo_continhas/static/js/runtime-main.2c49eeb5.js.map",
+    "static/css/2.ceb7063b.chunk.css": "/pessoal_react_jogo_continhas/static/css/2.ceb7063b.chunk.css",
+    "static/js/2.d4a89dca.chunk.js": "/pessoal_react_jogo_continhas/static/js/2.d4a89dca.chunk.js",
+    "static/js/2.d4a89dca.chunk.js.map": "/pessoal_react_jogo_continhas/static/js/2.d4a89dca.chunk.js.map",
+    "static/js/3.e17084d7.chunk.js": "/pessoal_react_jogo_continhas/static/js/3.e17084d7.chunk.js",
+    "static/js/3.e17084d7.chunk.js.map": "/pessoal_react_jogo_continhas/static/js/3.e17084d7.chunk.js.map",
+    "index.html": "/pessoal_react_jogo_continhas/index.html",
+    "static/css/2.ceb7063b.chunk.css.map": "/pessoal_react_jogo_continhas/static/css/2.ceb7063b.chunk.css.map",
+    "static/js/2.d4a89dca.chunk.js.LICENSE.txt": "/pessoal_react_jogo_continhas/static/js/2.d4a89dca.chunk.js.LICENSE.txt",
+    "static/js/3.e17084d7.chunk.js.LICENSE.txt": "/pessoal_react_jogo_continhas/static/js/3.e17084d7.chunk.js.LICENSE.txt",
+    "static/media/primeicons.css": "/pessoal_react_jogo_continhas/static/media/primeicons.e61f3495.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c49eeb5.js",
+    "static/css/2.ceb7063b.chunk.css",
+    "static/js/2.d4a89dca.chunk.js",
+    "static/js/main.d5d536fc.chunk.js"
+  ]
+}
