@@ -4,7 +4,9 @@ export default class GraficoLinha extends PureComponent {
   constructor(props) {
     super(props);
     this.state = {
+      //suavizar as curvas
       tension: 0.4,
+      //preencher a área sob o gráfico?
       fill: false,
     };
   }
